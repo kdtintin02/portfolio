@@ -7,3 +7,6 @@ This is a Java-text-based application for Tic-Tac-Toe game
 
 ## Programming Language
 - OOP JAVA
+
+## Compiler
+- Online GDB
